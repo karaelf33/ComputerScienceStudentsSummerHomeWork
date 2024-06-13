@@ -13,19 +13,19 @@ List of developer students participating in the program:
 
 Project Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
--User can see his account information in the account page.
-For example, when user trigger this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
+- User can see his account information in the account page.
+For example, when the user triggers this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
 -Create, Edit, Delete, and update user info.
 
--Add account,delete account, update account.
+- Add account, delete account, update account.
 
--Add money to his account, and withdraw money from the account.
+- Add money to his account, and withdraw money from the account.
 
--Add the required APIs for the above requirements
+- Add the required APIs for the above requirements
 
--Keep simple, 
+- Keep simple, 
 
--Create two tables, one for user, one for account. Keep OneToOne relation between them User and Account.
+- Create two tables, one for user, one for account. Keep OneToOne relation between them User and Account.
 
 https://www.baeldung.com/jpa-one-to-one
 
@@ -33,13 +33,13 @@ https://www.youtube.com/watch?v=Svpcn5wJ8CU
 
 https://www.youtube.com/results?search_query=one+to+one+relationship+hibernate
 
--Use which database you want.
+- Use whatever database you want.
 
--Use spring boot, spring data jpa, hibernate, mysql, lombok, swagger, spring boot test, junit, mockito, mapstruct, etc.
+- Use spring boot, spring data jpa, hibernate, mysql, lombok, swagger, spring boot test, junit, mockito, mapstruct, etc.
 
 https://www.youtube.com/watch?v=aariHjpng90
 
--Dockerized the application. Create a docker file for the application.(Important: First you need Dockerized the app)
+- Dockerized the application. Create a docker file for the application.(Important: First you need Dockerized the app)
 
 https://www.docker.com/blog/kickstart-your-spring-boot-application-development/
 
@@ -49,9 +49,9 @@ https://www.youtube.com/watch?v=MV4o_b6vt0g
 
 https://www.youtube.com/watch?v=cH5FRwR0fC4
 
--Create a README.md file for the application. Write the steps for running the application, and the APIs for the application.
+- Create a README.md file for the application. Write the steps for running the application, and the APIs for the application.
 
--Follow Clean Code principles.
+- Follow Clean Code principles.
 
 https://www.youtube.com/watch?v=7m88T8-96X4
 
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=DoK3-9V5HRE
 
 https://www.youtube.com/watch?v=q2B8iI68mhI&list=PLzJgCLOkO5X05JOnHoAbt4ge8alnRs9n1
 
--Follow Solid principles.
+- Follow Solid principles.
 
 https://www.youtube.com/watch?v=xk_q9PbJdK4&list=PLlekUqrQSpoKlmjb0ZQHm1MDT0zTrf_0b
 
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=pdtpWYNBzqM
 
 https://www.designgurus.io/answers/detail/SOLID-design-principles?gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_KghHhNQnTZ5eqEyzNx7Inh0o4w0sOQ8r6CdTzt8bpxVL_jFwMmSSBNRoCFt0QAvD_BwE
 
-### -Use git for version control. Create a repository in GitHub, and share the link with me. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to a master branch. Follow the review comments
+### - Use git for version control. Create a repository in GitHub, and share the link with me. Use branches for development,and create a pull request to master branch for review. Send me the PR link for review. Without PR and review you can't merge to a master branch. Follow the review comments
 
 - Follow clean git history for the project. Write good commit messages. Make sure that the commit messages are clear and understandable.
 
@@ -112,7 +112,7 @@ https://www.youtube.com/watch?v=erp-7MCK5BU
 
 https://www.youtube.com/watch?v=41Ry2ojnJFM
 
--Follow Rest api naming conventions. https://restfulapi.net/resource-naming/
+- Follow Rest api naming conventions. https://restfulapi.net/resource-naming/
 
 https://www.youtube.com/watch?v=vCODdVCvrxc
 
@@ -123,9 +123,9 @@ https://www.youtube.com/watch?v=SBeG6cl8BlA
 -Use Swagger for API documentation. Create a swagger documentation for the application.
 
 
--Time to time you can set to meeting with me to discuss the project.
+- Occasionally you can meet with me to discuss the project.
 
--You can ask any question about the project.
+- You can ask any question about the project.
 
 -End of project you should present the project to me. 10-15 min presentation with english language.
 

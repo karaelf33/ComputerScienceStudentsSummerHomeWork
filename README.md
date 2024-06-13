@@ -13,7 +13,7 @@ List of developer students participating in the program:
 
 Project Definition: The user has an account for managing his economy, he can see his balance, transactions, and other information about his account.
 
-- User can see his account information in the account page.
+- The User can see his account information in the account page.
 For example, when the user triggers this api: getAccountInfo, he will get his account information. Money in the account, and other information about his account.
 -Create, Edit, Delete, and update user info.
 
@@ -120,14 +120,14 @@ https://www.youtube.com/watch?v=60F8rzP5nQo
 
 https://www.youtube.com/watch?v=SBeG6cl8BlA
 
--Use Swagger for API documentation. Create a swagger documentation for the application.
+- Use Swagger for API documentation. Create a swagger documentation for the application.
 
 
 - Occasionally you can meet with me to discuss the project.
 
 - You can ask any question about the project.
 
--End of project you should present the project to me. 10-15 min presentation with english language.
+- End of project you should present the project to me. 10-15 min presentation with english language.
 
--End of project we can discuss to add new features to the project.
+- End of project we can discuss to add new features to the project.
 
